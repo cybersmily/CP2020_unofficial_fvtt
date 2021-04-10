@@ -1,0 +1,28 @@
+{
+    "name": "Cyberpunk2020",
+    "title": "Unofficial Cyberpunk 2020",
+    "description": "Cyberpunk 2020.",
+    "version": "0.0.1",
+    "author": "Cybersmily",
+    "scripts": [],
+    "esmodules": ["cp2020_unofficial.js"],
+    "styles": ["cp2020_unofficial.css"],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "socket": true,
+    "gridDistance": 2,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "attributes.hp",
+    "secondaryTokenAttribute": null,
+    "minimumCoreVersion": "0.7.6",
+    "compatibleCoreVersion": "0.7.9",
+    "url": "https://github.com/cybersmily/CP2020_unofficial_fvtt",
+    "manifest": "https://github.com/cybersmily/CP2020_unofficial_fvtt/system.json",
+    "download": ""
+  }
+  
